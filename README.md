@@ -34,7 +34,7 @@ but **wisdom about what to do with it.**
 # 🧠 THink DWanaY
 
 
-**THink DWanaY is the stem from which my work in Data Science grows. Before there is a project, there is a thought; before there is a solution, there is a question; and before there is a question, there is a way of seeing. What I learn through this journey becomes the direction I carry into everything I build. My projects are therefore not isolated creations, but branches of the same tree—each one shaped by the questions I have asked, the lessons I have gathered, and the wisdom I have gained along the way. THink DWanaY is where that journey takes root.**
+>**THink DWanaY is the stem from which my work in Data Science grows. Before there is a project, there is a thought; before there is a solution, there is a question; and before there is a question, there is a way of seeing. What I learn through this journey becomes the direction I carry into everything I build. My projects are therefore not isolated creations, but branches of the same tree—each one shaped by the questions I have asked, the lessons I have gathered, and the wisdom I have gained along the way. THink DWanaY is where that journey takes root.**
 ---
 
 ### 👩🏽‍💻 Mathabo Mthethwa
