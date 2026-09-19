@@ -1,5 +1,5 @@
 <p align ="center">
-<img src = "./Beige Minimalist Simple Modern Studio Logo(1).gif"  />
+<img src = "./Beige Minimalist Simple Modern Studio Logo(1).gif" height = "10%"  />
 </p>
 
 # THink DWanaY 🧠📊
